@@ -10,22 +10,38 @@ analyze, visualize, and communicate data-driven insights.
 
 ## 🛠️ Skills
 
-- Python
-- Pandas
-- NumPy
-- SQL
-- MySQL
-- Power BI
-- DAX
-- Excel
-- Matplotlib
-- Seaborn
-- Statistics
+* Python
+* Pandas
+* NumPy
+* SQL
+* MySQL
+* Power BI
+* DAX
+* Excel
+* Matplotlib
+* Seaborn
+* Statistics
 
 ## 📊 Featured Projects
 
-### Olist E-commerce Sales Analytics
+### HR Analytics – Employee Attrition Analysis & Dashboard
 
+Excel • MySQL • Python • Pandas • NumPy • Power BI
+
+Built an end-to-end HR analytics project to analyze employee
+attrition and workforce patterns.
+
+* Cleaned and prepared HR data using Excel
+* Analyzed employee attrition using MySQL and SQL
+* Performed exploratory data analysis using Python, Pandas,
+  NumPy, Matplotlib, and Seaborn
+* Analyzed attrition across departments, job roles, overtime,
+  age groups, income, and other employee attributes
+* Built an interactive Power BI dashboard for HR insights
+
+[View Project](https://github.com/syedamaryamahmed123/hr-analytics-employee-attrition)
+
+### Olist E-commerce Sales Analytics
 Python • SQL • MySQL • Power BI
 
 Analyzed e-commerce sales, customer behavior, products,
@@ -40,22 +56,16 @@ SQL • Python • Power BI
 Analyzed sales, profit, customer, product, and regional
 performance using business intelligence techniques.
 
-### Telco Customer Churn Analysis
-
-Python • Pandas • Scikit-learn
-
-Analyzed customer churn patterns and built machine-learning
-models for churn classification.
 
 ## 📚 Currently Learning
 
-- Advanced SQL
-- Power BI & DAX
-- Statistics
-- Business Analytics
-- Data Storytelling
+* Advanced SQL
+* Power BI & DAX
+* Statistics
+* Business Analytics
+* Data Storytelling
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/syeda-maryam-ahmed/]
-- Email: [syedamaryamahmed80@gmail.com]
+* LinkedIn: [https://www.linkedin.com/in/syeda-maryam-ahmed/]
+* Email: [[syedamaryamahmed80@gmail.com](mailto:syedamaryamahmed80@gmail.com)]
