@@ -82,5 +82,5 @@ Virtual University of Pakistan
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/syeda-maryam-ahmed/]
-* Email: [[syedamaryamahmed80@gmail.com](mailto:syedamaryamahmed80@gmail.com)]
+* LinkedIn: [Syeda Maryam Ahmed](https://www.linkedin.com/in/syeda-maryam-ahmed/)
+* Email: [syedamaryamahmed80@gmail.com](mailto:syedamaryamahmed80@gmail.com)
