@@ -56,6 +56,19 @@ SQL • Python • Power BI
 Analyzed sales, profit, customer, product, and regional
 performance using business intelligence techniques.
 
+## 🎓 Education
+
+**BS Data Science**
+Virtual University of Pakistan
+
+---
+
+## 📜 Certifications
+
+- Kaggle — Advanced SQL
+- Kaggle — Data Cleaning
+- Simplilearn — Power BI
+- Simplilearn — Introduction to Excel
 
 ## 📚 Currently Learning
 
