@@ -65,10 +65,12 @@ Virtual University of Pakistan
 
 ## 📜 Certifications
 
-- Kaggle — Advanced SQL
-- Kaggle — Data Cleaning
-- Simplilearn — Power BI
-- Simplilearn — Introduction to Excel
+- [HackerRank — SQL Advanced](certifications/hackerrank-sql-advanced.png)
+- [Kaggle — Advanced SQL](certifications/kaggle-advanced-sql.png)
+- [Simplilearn — Power BI](certifications/simplilearn-power-bi.pdf)
+- [Simplilearn — Data Analyst](certifications/simplilearn-data-analyst.pdf)
+- [Kaggle — Data Cleaning](certifications/kaggle-data-cleaning.png)
+- [Simplilearn — Introduction to Excel](certifications/simplilearn-excel.pdf)
 
 ## 📚 Currently Learning
 
