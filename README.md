@@ -63,7 +63,7 @@ Virtual University of Pakistan
 
 ---
 
-## 📜 Certifications
+## 📜 Selected Certifications
 
 - [HackerRank — SQL Advanced](certifications/sql-intermediate.pdf)
 - [Kaggle — Advanced SQL](certifications/advanced-sql.png)
