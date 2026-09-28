@@ -65,7 +65,7 @@ Virtual University of Pakistan
 
 ## 📜 Certifications
 
-- [HackerRank — SQL Advanced](certifications/advanced-sql.png)
+- [HackerRank — SQL Advanced](certifications/sql-intermediate.pdf)
 - [Kaggle — Advanced SQL](certifications/advanced-sql.png)
 - [Simplilearn — Data Analyst](certifications/data-analyst.pdf)
 - [Simplilearn — Power BI](certifications/power-bi-certificate.png)
