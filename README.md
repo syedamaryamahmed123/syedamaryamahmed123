@@ -22,7 +22,25 @@ analyze, visualize, and communicate data-driven insights.
 * Seaborn
 * Statistics
 
-## 📊 Featured Projects
+### Featured Projects
+
+Telco Customer Churn Analysis
+
+Python • Pandas • SQL • MySQL • Power BI
+
+Built an end-to-end customer churn analytics project to identify
+customer retention patterns and revenue risk.
+
+Cleaned and prepared telecom customer data
+Performed customer and churn analysis using SQL and MySQL
+Conducted exploratory data analysis using Python and Pandas
+Analyzed churn across contract type, internet service,
+tenure, payment method, monthly charges, and customer segments
+Built an interactive 4-page Power BI dashboard covering
+executive overview, customer analysis, churn analysis,
+and revenue & risk analysis
+
+[View Project](https://github.com/syedamaryamahmed123/telco-customer-churn-analysis)
 
 ### HR Analytics – Employee Attrition Analysis & Dashboard
 
