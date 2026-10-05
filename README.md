@@ -2,8 +2,7 @@
 
 ### Junior Data Analyst | SQL • Python • Power BI
 
-I'm a BS Data Science student building practical data analytics
-projects using real-world datasets.
+I'm a BS Data Science student focused on Data Analytics and Business Intelligence, building practical projects using real-world datasets.
 
 I work with Python, SQL, MySQL, Power BI, and Excel to clean,
 analyze, visualize, and communicate data-driven insights.
